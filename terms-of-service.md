@@ -3,7 +3,7 @@ Terms of Service
 
 *Revised May 25, 2017.*
 
-These Terms govern your access and use of our services, including those offered through our website and first party applications (collectively, the "Service"). When you use the Service, you consent to these terms along with our Privacy Policy.
+These Terms govern your access and use of our services, including those offered through our website and first party applications (collectively, the "Service"). When you use the Service, you consent to these terms along with our [Privacy Policy](https://github.com/ZephyrVR/documents/blob/master/privacy-policy.md).
 
 ## Use of the Service
 * To use this Service, you must be above the age of 13 and have a valid Steam account.
