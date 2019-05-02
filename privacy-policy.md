@@ -23,7 +23,7 @@ This information is never transmitted or stored outside of the local network.
 
 ### Anonymous usage data
 To improve the Service, additional usage information may be collected by third party tools such as Firebase Analytics and Fabric.
-Such information is gathered anonymously and may tagged with a unique identifier that is generated upon a fresh install.
+Such information is gathered anonymously and may tagged with an application-specific unique identifier that is generated upon a fresh install of a given application.
 Usage data collection and reporting can be disabled via the appropriate setting within the respective application.
 
 Such information is gathered and stored in accordinance with each service's respective Terms of Use and Privacy Policy.
