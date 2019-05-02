@@ -10,7 +10,7 @@ Project Tempest was largely successful, but concerns regarding privacy, security
 
 The following repos were associated with Project Tempest are archived:
 
-- ZephyrVR/tempest-android
-- ZephyrVR/tempest-login
-- ZephyrVR/tempest-overlay
-- ZephyrVR/tempest-server
+- [ZephyrVR/tempest-android](https://github.com/ZephyrVR/tempest-android)
+- [ZephyrVR/tempest-login](https://github.com/ZephyrVR/tempest-login)
+- [ZephyrVR/tempest-overlay](https://github.com/ZephyrVR/tempest-overlay)
+- [ZephyrVR/tempest-server](https://github.com/ZephyrVR/tempest-server)
