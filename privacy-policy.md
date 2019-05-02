@@ -9,7 +9,7 @@ When you use the Service, you consent to our collection, use, and disclosure of 
 ## Information collection and use
 ### Notification data
 Zephyr's primary purpose is to act as a notification transport layer.
-As such, Zephyr may access and transmit notification metadata, including but not limited to:
+As such, Zephyr may access and transmit notification metadata including but not limited to:
 
 * Notification title
 * Notification body
